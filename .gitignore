@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# My gitignore
+temp.py
+.idea*
+test.py
+test.*
+test*
+temp*
+work*
