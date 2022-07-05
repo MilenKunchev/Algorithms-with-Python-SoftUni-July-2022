@@ -57,7 +57,7 @@ Write a program that draws the figure below depending on **n**.
 
 **Examples**
 
-![image info](./images/draw.png)
+![image info](./Images/draw.png)
 
 ## 4. Generating 0/1 Vectors
 
