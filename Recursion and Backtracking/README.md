@@ -113,7 +113,6 @@ In this lab, we will implement a recursive algorithm to solve the **&quot;8 Quee
 | **Input** | **Output** |
 | --- | --- |
 | _(no input)_ | <br/>* - - - - - - -<br/>- - - - \* - - -<br/> - - - - - - - \* <br/>- - - - - \* - - <br/>- - \* - - - - -<br/> - - - - - - \* - <br/>- \* - - - - - -<br/> - - - \* - - - -
-|
 
 
 (90 solutions more)
