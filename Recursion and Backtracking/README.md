@@ -55,9 +55,9 @@ Write a **recursive** method. It will take as arguments an integer number.
 
 Write a program that draws the figure below depending on **n**.
 
-### Examples
-![image info](./images/draw.png)
+**Examples**
 
+![image info](./images/draw.png)
 
 ## 4. Generating 0/1 Vectors
 
