@@ -190,7 +190,7 @@ Now we can optimize our code:
 - Try to use **bool[]** array for **attackedColumns** , **attackedLeftDiagonals** and **attackedRightDiagonals** instead of sets. Note that arrays are indexed from 0 to their size and cannot hold negative indexes.
 
 
-## 6. Recursive Fibonacci
+## 7. Recursive Fibonacci
 
 Each member of the **Fibonacci sequence** is calculated from the **sum of the two previous members**. The first two elements are 1, 1. Therefore the sequence goes as 1, 1, 2, 3, 5, 8, 13, 21, 34…
 
