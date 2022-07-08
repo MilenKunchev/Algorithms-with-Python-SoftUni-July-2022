@@ -1,4 +1,6 @@
-# **Lab: Recursion and Backtracking**
+
+
+<h1 align="center">Lab: Recursion and Backtracking</h1>
 
 This document defines the lab for [&quot;Algorithms with Python&quot; course @Software University](https://softuni.bg/opencourses/algorithms-with-python)&quot;.
 
