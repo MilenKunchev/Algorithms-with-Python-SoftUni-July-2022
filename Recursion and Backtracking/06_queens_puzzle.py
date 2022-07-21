@@ -4,7 +4,7 @@ puzzle = [['-'] * cols_count for _ in range(rows_count)]
 
 
 def print_result(result):
-    for r in puzzle:
+    for r in result:
         print(*r)
     print()
 
