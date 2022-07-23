@@ -1,3 +1,16 @@
+import sys
+from io import StringIO
+
+input1 = """3
+3
+---
+-*-
+--e
+"""
+
+sys.stdin = StringIO(input1)
+
+
 def find_all_paths(row, col, lab, directon, path):
     if row < 0 or col < 0 or row >= len(lab) or col >= len(lab[0]):
         return

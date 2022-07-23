@@ -130,8 +130,8 @@ dmypy.json
 # My gitignore
 temp.py
 .idea*
-test.py
-test.*
+test_input.py
+test_input.py
 test*
 temp*
 work*
